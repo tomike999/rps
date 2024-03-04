@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0 ;
+    background: silver;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.playGround {
+    background-color: aquamarine;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: black 1px solid;
+    text-align: center;
+}
+
+.players {
+    padding: 3px;
+    margin-left: 5px;
+    font-weight: 800;
+}
+
+.allbtns {
+    margin: 0 auto;
+    
+}
+
+.btns {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+#result {
+    text-align: center;
+}
+
+/*asd
